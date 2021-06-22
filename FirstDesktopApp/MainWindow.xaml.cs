@@ -24,5 +24,10 @@ namespace FirstDesktopApp
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            LabelOne.Visibility = Visibility.Visible;
+        }
     }
 }
