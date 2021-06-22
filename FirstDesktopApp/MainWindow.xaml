@@ -11,6 +11,7 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Label Content="Some text here" FontSize="18" Visibility="Hidden" HorizontalAlignment="Left" Margin="221,171,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.747,-0.351" Height="83" Width="134"/>
+        <Button Content="Show text" HorizontalAlignment="Left" Margin="56,50,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
